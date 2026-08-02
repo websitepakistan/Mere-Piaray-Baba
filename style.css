@@ -111,3 +111,131 @@ margin-top:15px;
 font-size:18px;
 
 color:#
+
+/* ===========================
+SECTION TITLES
+=========================== */
+
+.section-heading{
+
+text-align:center;
+
+margin:120px auto 70px;
+
+}
+
+.section-heading span{
+
+color:gold;
+
+letter-spacing:5px;
+
+font-size:14px;
+
+}
+
+.section-heading h2{
+
+font-size:50px;
+
+margin-top:15px;
+
+font-family:'Cinzel',serif;
+
+}
+
+.section-heading p{
+
+margin-top:20px;
+
+color:#cfcfcf;
+
+font-size:18px;
+
+}
+
+/* ===========================
+QUOTE
+=========================== */
+
+.quote{
+
+padding:120px 8%;
+
+display:flex;
+
+justify-content:center;
+
+}
+
+.quote-card{
+
+max-width:900px;
+
+padding:60px;
+
+background:rgba(255,255,255,.05);
+
+backdrop-filter:blur(20px);
+
+border:1px solid rgba(255,215,0,.25);
+
+border-radius:30px;
+
+text-align:center;
+
+box-shadow:0 0 50px rgba(255,215,0,.15);
+
+}
+
+.quote-card h2{
+
+font-size:42px;
+
+font-family:'Cinzel',serif;
+
+line-height:1.5;
+
+}
+
+.quote-card p{
+
+margin-top:20px;
+
+color:gold;
+
+}
+
+/* ===========================
+ABOUT
+=========================== */
+
+#about{
+
+padding:120px 8%;
+
+display:flex;
+
+gap:80px;
+
+align-items:center;
+
+}
+
+.about-image img{
+
+width:420px;
+
+border-radius:30px;
+
+box-shadow:0 0 45px rgba(255,215,0,.35);
+
+}
+
+.about-content h2{
+
+font-size:52px;
+
+font-family
+
+   
