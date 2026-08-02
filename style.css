@@ -594,3 +594,28 @@ width:100%;
 max-width:340px;
 
    }
+   
+.hidden{
+opacity:0;
+transform:translateY(80px);
+transition:1s;
+}
+
+.show{
+opacity:1;
+transform:translateY(0);
+}
+
+@keyframes rise{
+0%{
+transform:translateY(0) scale(.8);
+opacity:0;
+}
+20%{
+opacity:1;
+}
+100%{
+transform:translateY(-120vh) scale(1.6);
+opacity:0;
+}
+   }
